@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Water Tracker</string>
+    <string name="wake_time_title">Wake time</string>
+    <string name="wake_time_content">It is time to wake up!</string>
+    <string name="time_to_sleep_title">Time falling asleep</string>
+    <string name="time_to_sleep_content">Time to go to sleep.</string>
+    <string name="daily_rate_consumption">The daily rate of water consumption is 30 ml per 1 kg of body weight.</string>
+    <string name="recommendation">\"Recommendation: \"</string>
+    <string name="much_per_day">\"How much water do need per a day? \"</string>
+    <string name="id">id</string>
+    <string name="edit_goals">Edit Goals</string>
+    <string name="today">Today</string>
+    <string name="week">Week</string>
+    <string name="month">Month</string>
+    <string name="previous_week">Previous Week</string>
+    <string name="next_week">Next Week</string>
+    <string name="average_intake">Average Intake</string>
+    <string name="minimal_intake">Minimal Intake</string>
+    <string name="maximal_intake">Maximal Intake</string>
+    <string name="previous_month">Previous Month</string>
+    <string name="next_month">Next Month</string>
+    <string name="cancel">Отменить</string>
+    <string name="add">Добавить</string>
+    <string name="add_reminder">Add reminder on your phone</string>
+</resources>
